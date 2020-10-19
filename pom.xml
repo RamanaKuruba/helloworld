@@ -23,7 +23,7 @@
     
     <sonar.sources>src/main</sonar.sources>
 	<sonar.tests>src/test</sonar.tests>
-	 <junit.version>4.12</junit.version>
+	 <junit.version>4.13.1</junit.version>
 	<!-- Below property indicates the pattern of the test suite -->
 	<runSuite>**/*Suite.class</runSuite>
 	<!-- Sonar-JaCoCo properties -->
